@@ -1,0 +1,6 @@
+package com.tiar.ongkir
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
